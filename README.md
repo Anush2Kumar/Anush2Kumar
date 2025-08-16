@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Anush2Kumar/Anush2Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! Here’s a bit about me:
 
-Here are some ideas to get you started:
+## 👨‍🎓 About Me
+- **Student**
+- **Programming Languages:** Python, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Gaming
+- **PUBG Gameplay Winner**
+- **PS5 Gamer**
+- **Interests:** Gaming, fighting, roasting, sports
+
+## 🌐 Social
+- Connect with me on [LinkedIn](#) <!-- Replace # with your actual LinkedIn profile link -->
+
+## 🛣️ What Am I Up To?
+- Just roaming around 😄
+
+---
+
+Feel free to connect or reach out if you share similar interests!
