@@ -7,8 +7,7 @@ Welcome to my profile! Here’s a bit about me:
 
 ## 🎮 Gaming
 - **PUBG Gameplay Winner**
-- **PS5 Gamer**
-- **Interests:** Gaming, fighting, roasting, sports
+  - **Interests:** Gaming, fighting, roasting, sports
 
 ## 🌐 Social
 - Connect with me on [LinkedIn](#) <!-- Replace # with your actual LinkedIn profile link -->
