@@ -10,7 +10,9 @@ Welcome to my profile! Here’s a bit about me:
   - **Interests:** Gaming, fighting, roasting, sports
 
 ## 🌐 Social
-- Connect with me on [LinkedIn](#) <!-- Replace # with your actual LinkedIn profile link -->
+- Connect with me on [LinkedIn](www.linkedin.com/in/
+anush-kumar-singh-8b6437306
+) <!-- Replace # with your actual LinkedIn profile link -->
 
 ## 🛣️ What Am I Up To?
 - Just roaming around 😄
